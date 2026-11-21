@@ -1,6 +1,6 @@
 # EVS Final Exam Trainer
 
-An adaptive practice quiz for **IACHY101 / BACHY101 Environmental Sciences (Fall 2026–27)**. It has 455 multiple-choice questions covering all six modules.
+An adaptive practice quiz for **IACHY101 / BACHY101 Environmental Sciences (Fall 2026–27)**. It has 732 multiple-choice questions covering all six modules.
 
 Open `index.html` in a browser, or use the GitHub Pages site. It has no build step and no dependencies, and your progress is saved in your browser.
 
